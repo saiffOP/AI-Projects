@@ -1,0 +1,7 @@
+streamlit
+openai
+python-dotenv
+pinecone-client
+PyMuPDF
+langchain
+openai-agents
