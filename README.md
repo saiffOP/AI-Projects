@@ -7,7 +7,7 @@ This repository contains a collection of advanced AI projects I've built using t
 ### 1. Multi-Agent PDF Assistant
 📄 A Streamlit app powered by Azure OpenAI's Agents SDK and Pinecone to summarize and answer questions from uploaded PDFs.
 
-➡️ [View Details](./multi-agent-pdf-assistant/README.md)
+➤ [View Project README](./multi_agent_pdf_qa/README.md)
 
 ---
 
