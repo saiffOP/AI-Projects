@@ -9,6 +9,11 @@ This repository contains a collection of advanced AI projects I've built using t
 
 ➤ [View Project README](./multi_agent_pdf_qa/README.md)
 
+### 2. Multi-Agent Research & Report System
+🤖 A Streamlit-based multi-agent research application using the OpenAI Agents SDK. It plans research tasks, searches the web, analyzes findings, writes a structured report, and reviews the final output through an automated revision loop.
+
+➤ [View Project README](./Multi-Agent Research & Report System/README.md)
+
 ---
 
 New projects will be added as I explore and build more AI-powered tools!
